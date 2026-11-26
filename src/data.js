@@ -129,7 +129,7 @@ export const projects = [
     title: "Automated Bite Making Machine (Hardware Project)",
     description:
       "An AI-powered Interview Preparation and Confidence Analysis System designed to assess interview performance and confidence. Contributed to the research and development of the Speech Emotion Recognition model using Deep Learning techniques.",
-    stack: ["Python", "SER", "Deep Learning"],
+    stack: ["C", "Atmega-32", "Embedded Systems"],
     image: "/hardware.jpg",
   },
 ];
