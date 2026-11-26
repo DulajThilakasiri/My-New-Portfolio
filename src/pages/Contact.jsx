@@ -75,7 +75,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="text-xs uppercase tracking-widest text-zinc-400 mb-2">
-                  WHATS APP
+                  WHATS APP - hello
                 </p>
                 <a
                   
