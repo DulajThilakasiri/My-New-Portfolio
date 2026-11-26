@@ -78,7 +78,7 @@ export default function Contact() {
                   WHATS APP
                 </p>
                 <a
-                  href={profile.linkedin}
+                  
                   target="_blank"
                   rel="noreferrer"
                   className="font-medium hover:text-accent"
